@@ -1,4 +1,4 @@
-# Olá, eu sou No Name 👋
+# Olá, eu Seja bem Vindo(a) 👋
 
 **Estudante Frontend no IFPE** | Apaixonado por criar interfaces, jogos e automação.
 
@@ -38,7 +38,8 @@
 
 ### 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight)
+
 
 ---
 
