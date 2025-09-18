@@ -29,16 +29,6 @@
 </p>
 
 ---
-
-### 📈 &nbsp;GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" />
-</p>
-
----
-
 ### 🌐 &nbsp;Onde me encontrar
 
 <p align="center">
