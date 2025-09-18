@@ -28,18 +28,17 @@
 
 ---
 
+### 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight)
+
+---
+
 ### 📫 Me encontre aqui
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)  
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
-
----
-
-### 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight)
-
 
 ---
 
