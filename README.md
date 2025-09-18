@@ -49,6 +49,22 @@
 
 ---
 
+### 💻 Linguagens mais usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🐍 GitHub Activity Snake
+
+<p align="center">
+  <img src="https://github.com/seu-usuario/github-readme-snake/raw/output/github-snake-dark.svg" alt="GitHub Snake" />
+</p>
+
+---
+
 ### 🌐 Onde me encontrar
 
 <p align="center">
