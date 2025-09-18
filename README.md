@@ -60,7 +60,7 @@
 ### 🐍 GitHub Activity Snake
 
 <p align="center">
-  <img src="https://github.com/seu-usuario/github-readme-snake/raw/output/github-snake-dark.svg" alt="GitHub Snake" />
+  <img src="https://github-readme-snake.vercel.app/api?user=seu-usuario&theme=dark" alt="GitHub Snake" />
 </p>
 
 ---
